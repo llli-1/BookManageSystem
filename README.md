@@ -6,7 +6,7 @@
 # 主要实现功能
 
 ## 主要板块
-logindata.cs --记录登录用户的id和name
+logindata.cs --记录登录用户的id和name  
 login.cs --登录界面
 
 ### 读者板块-reader
