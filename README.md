@@ -16,12 +16,32 @@
   
 ## 主要板块
 logindata.cs --记录登录用户的id和name  
-login.cs --登录界面
+login.cs --登录界面  
+效果：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/3f6b747e-494f-49ed-8d2d-6204be00a002)
 
+（以下图形界面截图仅展示部分功能）
 ### 读者板块-reader
+效果：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/ffb467af-7cd8-4265-b70e-a30e0a3ca922)
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/70613c58-168c-4ae9-b7ab-1216ea0528ed)
+未交罚款不可借书提示：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/4cac39ca-212f-4756-96d5-c0aaba42d62f)  
+借书成功提示：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/57062706-9ae4-4002-be5d-395de64477bc)
+
 
 ### 图书管理者板块-bookmanager
+效果：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/c07515fe-ca26-4579-8f99-820b53a40857)
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/e1f0854a-3ea6-46ac-91af-fc884bfef980)
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/8ccc3f29-6483-458c-8aca-1e03c5c68f27)
+
 
 ### 系统管理员板块-system_manager
+效果：  
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/365cc01e-7e9f-4c40-b12e-61f9f4d53399)
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/5117b89a-4152-4341-bca8-c5940a1792b5)
+![image](https://github.com/llli-1/BookManageSystem/assets/102156169/db47be16-81e5-44b5-8c32-099ff45898a4)
 
   
